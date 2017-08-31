@@ -1,4 +1,4 @@
-# Web Development References to become a Web Developer
+# References to become a Web Developer
 
 > A curated list of public web development resources.
 
