@@ -14,6 +14,4 @@ Have fun!
 
 ### Javascript
 
-All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
-
 * [The Prinziples of Object Oriented Javascript](http://pepa.holla.cz/wp-content/uploads/2015/11/The-Principles-of-Object-Oriented-JavaScript.pdf) - my personal javascript bible, really helpfull.
