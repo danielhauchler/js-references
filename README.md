@@ -7,10 +7,9 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 Have fun!
 
-## Index
-* [JS](#javascript)
-  * [Object Oriented Javascript](#object-oriented-javascript)
-  
+### HTML
+
+### CSS
 
 ### Javascript
 
