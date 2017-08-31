@@ -10,10 +10,11 @@ Have fun!
 # Frontend Development
 
 * [JS](#javascript)
-  * [OOP](#object-oriented-javascript)
-  * [ES5](#ECMAScript5)
-  * [ES6](#ECMAScript6)
+  * [Object Oriented Javascript](#object-oriented-javascript)
+  
 
+### Javascript
 
-+ [JS](#javascript)
-    + [The Prinziples of Object Oriented Javascript](file:///Users/daniel.hauchler/Desktop/The-Principles-of-Object-Oriented-JavaScript.pdf)
+All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
+
+* [The Prinziples of Object Oriented Javascript](file:///Users/daniel.hauchler/Desktop/The-Principles-of-Object-Oriented-JavaScript.pdf) - my personal javascript bible, really helpfull.
