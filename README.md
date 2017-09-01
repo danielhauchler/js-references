@@ -13,3 +13,5 @@ Have fun!
 ### Javascript
 
 * [The Prinziples of Object Oriented Javascript](http://pepa.holla.cz/wp-content/uploads/2015/11/The-Principles-of-Object-Oriented-JavaScript.pdf) - my personal javascript bible, really helpfull.
+
+http://exploringjs.com/
